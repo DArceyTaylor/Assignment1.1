@@ -2481,7 +2481,7 @@ input[type="submit"].btn.btn-mini {
 }
 .nav > li > a:hover {
   text-decoration: none;
-  background-color: #66FF99;
+  background-color: #eeeeee;
 }
 .nav .nav-header {
   display: block;
@@ -2512,7 +2512,7 @@ input[type="submit"].btn.btn-mini {
 }
 .nav-list > .active > a,
 .nav-list > .active > a:hover {
-  color: #ffffff;
+  color: #66FF99;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
   background-color: #0088cc;
 }
