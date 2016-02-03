@@ -417,13 +417,13 @@ ol ul {
   margin-bottom: 0;
 }
 ul {
+  display: inline;
   list-style: disc;
 }
 ol {
   list-style: decimal;
 }
 li {
-  display: inline;
   line-height: 18px;
 }
 ul.unstyled,
