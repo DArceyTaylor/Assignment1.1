@@ -423,6 +423,7 @@ ol {
   list-style: decimal;
 }
 li {
+  display: inline;
   line-height: 18px;
 }
 ul.unstyled,
