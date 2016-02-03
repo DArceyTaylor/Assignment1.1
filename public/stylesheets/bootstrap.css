@@ -400,7 +400,7 @@ h6 {
 .page-header {
   padding-bottom: 17px;
   margin: 18px 0;
-  border-bottom: 1px solid #66FF99;
+  border-bottom: 1px solid #eeeeee;
 }
 .page-header h1 {
   line-height: 1;
@@ -2481,7 +2481,7 @@ input[type="submit"].btn.btn-mini {
 }
 .nav > li > a:hover {
   text-decoration: none;
-  background-color: #eeeeee;
+  background-color: #66FF99;
 }
 .nav .nav-header {
   display: block;
