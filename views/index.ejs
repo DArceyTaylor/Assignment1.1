@@ -1,22 +1,6 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="/public/stylesheets/bootstrap.min.css">
-
-    <!-- Optional theme -->
-    <link rel="stylesheet" href="/public/stylesheets/bootstrap-theme.min.css">
-    <%- include partials/header %>
-
-</head>
-
-<body>
-    <h1><%= title %></h1>
-    <p>Welcome to
-        <%= title %>
-    </p>
-</body>
-
-</html>
+<% include partials/header.ejs %>
+        <h1><%= title %></h1>
+        <p>Welcome to <%= title %></p>
+          
+      </main>
+<% include partials/footer.ejs %>
